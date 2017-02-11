@@ -1,0 +1,52 @@
+2017-02-11T15:56:18.611Z - normal: Load ~/.CocosCreator/settings.json
+2017-02-11T15:56:18.616Z - normal: checking language setting...
+2017-02-11T15:56:18.617Z - normal: Language: zh
+2017-02-11T15:56:18.648Z - success: protocol editor-framework registered
+2017-02-11T15:56:18.649Z - success: protocol app registered
+2017-02-11T15:56:18.649Z - success: protocol packages registered
+2017-02-11T15:56:18.649Z - success: protocol theme registered
+2017-02-11T15:56:18.649Z - success: protocol unpack registerred
+2017-02-11T15:56:18.994Z - normal: connected!
+2017-02-11T15:56:18.996Z - normal: Check project /Users/Veyhunk/Project/cocos/complete_project
+2017-02-11T15:56:18.999Z - normal: Initializing Cocos Creator Editor
+2017-02-11T15:56:19.323Z - normal: Initializing Cocos2d
+2017-02-11T15:56:19.617Z - normal: Initializing Asset Database
+2017-02-11T15:56:19.636Z - success: protocol uuid registerred
+2017-02-11T15:56:19.637Z - success: protocol db registerred
+2017-02-11T15:56:19.637Z - success: protocol thumbnail registerred
+2017-02-11T15:56:19.637Z - normal: Loading editor/builtin packages
+2017-02-11T15:56:19.771Z - success: assets loaded
+2017-02-11T15:56:19.776Z - success: builder loaded
+2017-02-11T15:56:19.781Z - success: hierarchy loaded
+2017-02-11T15:56:19.786Z - success: inspector loaded
+2017-02-11T15:56:19.787Z - success: keystore loaded
+2017-02-11T15:56:19.791Z - success: node-library loaded
+2017-02-11T15:56:19.795Z - success: preferences loaded
+2017-02-11T15:56:19.813Z - success: project-importer loaded
+2017-02-11T15:56:19.816Z - success: project-settings loaded
+2017-02-11T15:56:19.820Z - success: ui-kit loaded
+2017-02-11T15:56:19.827Z - success: ui-grid loaded
+2017-02-11T15:56:19.832Z - success: scene loaded
+2017-02-11T15:56:19.833Z - success: sprite-editor loaded
+2017-02-11T15:56:19.841Z - success: timeline loaded
+2017-02-11T15:56:19.841Z - normal: Loading builtin packages
+2017-02-11T15:56:19.847Z - success: asset-db-debugger loaded
+2017-02-11T15:56:19.850Z - success: code-editor loaded
+2017-02-11T15:56:19.852Z - success: color-picker loaded
+2017-02-11T15:56:19.857Z - success: console loaded
+2017-02-11T15:56:19.861Z - success: package-manager loaded
+2017-02-11T15:56:19.864Z - success: tester loaded
+2017-02-11T15:56:19.867Z - success: ui-kit-preview-extra loaded
+2017-02-11T15:56:19.871Z - success: ui-kit-preview loaded
+2017-02-11T15:56:19.875Z - success: ui-tree loaded
+2017-02-11T15:56:19.911Z - normal: Initializing project /Users/Veyhunk/Project/cocos/complete_project
+2017-02-11T15:56:19.913Z - normal: Loading packages
+2017-02-11T15:56:19.924Z - failed: Failed to load package at /Users/Veyhunk/.CocosCreator/packages/creator-preview-master: Host 'CocosCreator' require ver >=1.4.0-beta.9
+2017-02-11T15:56:19.929Z - success: resource loaded
+2017-02-11T15:56:19.929Z - normal: Watching packages
+2017-02-11T15:56:19.957Z - normal: Run Application
+2017-02-11T15:56:21.960Z - success: preview server running at http://localhost:7457
+2017-02-11T15:56:21.960Z - normal: Compiling scripts...
+2017-02-11T15:56:24.038Z - normal: Compiled successfully
+2017-02-11T15:56:28.799Z - normal: 1.3.3
+2017-02-11T16:02:22.935Z - info: shutdown preview server
